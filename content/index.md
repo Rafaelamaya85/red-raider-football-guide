@@ -4,33 +4,33 @@ title: Red Raider Football Guide
 
 ## Welcome to the Red Raider Football Guide
 
-Welcome to the **Red Raider Football Guide**, a knowledge base dedicated to Texas Tech Red Raider football. This site organizes information about the football program, its history, players, coaches, traditions, Jones AT&T Stadium, and the game-day experience in Lubbock.
+Welcome to the **Red Raider Football Guide**, a knowledge base dedicated to Texas Tech Red Raider football. This site organizes information about the football program, its history, players, coaches, traditions, Jones AT&T Stadium because I refuse to call it Galaxy, and the game day experience in Lubbock.
 
-Whether you are a longtime Red Raider fan or attending your first Texas Tech football game, this guide provides an easy way to explore different parts of the program.
+This guide provides an easy way to explore different parts of the program.
 
 ## Explore the Red Raiders
 
 ### Football History
 
-Learn about the history of Texas Tech football, including memorable seasons, important games, bowl appearances, and major accomplishments.
+Learn the history of Texas Tech football, including memorable seasons, important games, bowl appearances, and major accomplishments.
 
 Visit [[football-history/index | Texas Tech Football History]].
 
 ### Players
 
-Explore notable players who have represented Texas Tech and made an impact on the Red Raider football program.
+Explore notable players who have represented the Red Raiders and made an impact on the football program.
 
 Visit [[players/index | Notable Players]].
 
 ### Coaches
 
-Learn about the coaches who have helped shape Texas Tech football throughout its history.
+Learn about the coaches who have helped build Texas Tech football throughout its history.
 
 Visit [[coaches/index | Coaches]].
 
 ### Traditions
 
-Discover the traditions that make Texas Tech football unique, including the Masked Rider, Raider Red, the Goin' Band from Raiderland, and other game-day traditions.
+Discover the traditions that make Texas Tech football unique, including the Masked Rider, Raider Red, the Goin' Band from Raiderland, and other game day traditions.
 
 Visit [[traditions/index | Texas Tech Traditions]].
 
