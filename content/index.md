@@ -1,42 +1,53 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Red Raider Football Guide
 ---
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+## Welcome to the Red Raider Football Guide
 
-## Editing pages
+Welcome to the **Red Raider Football Guide**, a knowledge base dedicated to Texas Tech Red Raider football. This site organizes information about the football program, its history, players, coaches, traditions, Jones AT&T Stadium, and the game-day experience in Lubbock.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+Whether you are a longtime Red Raider fan or attending your first Texas Tech football game, this guide provides an easy way to explore different parts of the program.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+## Explore the Red Raiders
 
-### Obsidian (free)
+### Football History
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
+Learn about the history of Texas Tech football, including memorable seasons, important games, bowl appearances, and major accomplishments.
 
-Link: [https://obsidian.md/](https://obsidian.md/)
+Visit [[football-history/index | Texas Tech Football History]].
 
-### Visual Studio Code (free)
+### Players
 
-Visual Studio Code (vscode) is a popular free and open source code editor.
+Explore notable players who have represented Texas Tech and made an impact on the Red Raider football program.
 
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
+Visit [[players/index | Notable Players]].
 
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+### Coaches
 
-### iA Writer (paid)
+Learn about the coaches who have helped shape Texas Tech football throughout its history.
 
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
+Visit [[coaches/index | Coaches]].
 
-Link: [https://ia.net/writer](https://ia.net/writer)
+### Traditions
 
-### Text editors (free or paid)
+Discover the traditions that make Texas Tech football unique, including the Masked Rider, Raider Red, the Goin' Band from Raiderland, and other game-day traditions.
 
-You can use any text editor capable of opening and editing Markdown files. 
+Visit [[traditions/index | Texas Tech Traditions]].
+
+### Jones AT&T Stadium
+
+Learn more about the home of Red Raider football, including stadium information and what fans can expect when attending a game.
+
+Visit [[jones-stadium/index | Jones AT&T Stadium]].
+
+### Game Day
+
+Find useful information for experiencing a Texas Tech football game in Lubbock, including game-day tips, parking, and other information for fans.
+
+Visit [[game-day/index | Game Day Guide]].
 
 ---
-## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+## Wreck 'Em Tech!
 
+Texas Tech football is about more than what happens on the field. It is a combination of history, traditions, players, students, alumni, and fans. This knowledge base brings those resources together in one organized location for anyone interested in learning more about Red Raider football.
