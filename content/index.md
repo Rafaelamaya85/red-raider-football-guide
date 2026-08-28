@@ -51,3 +51,13 @@ Visit [[game-day/index | Game Day Guide]].
 ## Wreck 'Em Tech!
 
 Texas Tech football is about more than what happens on the field. It is a combination of history, traditions, players, students, alumni, and fans. This knowledge base brings those resources together in one organized location for anyone interested in learning more about Red Raider football.
+
+
+## Main Categories
+
+- [[coaches/index|Coaches]]
+- [[football-history/index|Texas Tech Football History]]
+- [[game-day/index|Game Day]]
+- [[players/index|Players]]
+- [[stadium/index|Jones AT&T Stadium]]
+- [[traditions/index|Traditions]]
