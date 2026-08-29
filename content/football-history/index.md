@@ -23,3 +23,8 @@ This section will include information about:
 - Important moments in Red Raider football history
 
 The goal of this category is to make it easy for fans to find and explore information about the history and development of the Texas Tech Red Raiders football program.
+
+
+## Memorable Games
+
+- [[2008-texas-game|2008 Texas vs. Texas Tech]]
