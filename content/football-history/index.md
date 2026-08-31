@@ -28,3 +28,7 @@ The goal of this category is to make it easy for fans to find and explore inform
 ## Memorable Games
 
 - [[2008-texas-game|2008 Texas vs. Texas Tech]]
+
+## Related Categories
+
+Texas Tech [[players/index|players]] have helped create the memorable games and moments that make up the history of Red Raider football. Follow the link for further information. 
