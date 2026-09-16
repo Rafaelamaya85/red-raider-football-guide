@@ -27,6 +27,12 @@ The student section is also a major part of the atmosphere and helps make Texas 
 
 My biggest recommendation is simple: **arrive early**. A Texas Tech football weekend is about more than watching the football. Take the time to experience Lubbock, walk around campus, enjoy the tailgates, experience the traditions, and take in the atmosphere at The Jones. This is what it means to truly be a Red Raider. A Matador. 
 
+## 2026 Texas Tech Football Schedule
+
+Check out the official 2026 Texas Tech Football schedule below to help plan your game day.
+
+![[assets/2026-texas-tech-football-schedule.pdf]]
+
 ## Related Pages
 
 - [[index|Game Day]]

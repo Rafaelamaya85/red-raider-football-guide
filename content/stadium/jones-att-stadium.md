@@ -5,6 +5,8 @@ title: Jones AT&T Stadium
 
 Jones AT&T Stadium is the home of the Texas Tech Red Raiders football team in Lubbock, Texas. Located on the north end of campus, the stadium is the center of the gameday experience for Red Raider football fans.
 
+![[assets/jones-stadium.jpg]]
+
 ## History
 
 The stadium opened in 1947 and has gone through several expansions and renovations over the years. These improvements have helped the stadium grow along with the Texas Tech football program.
