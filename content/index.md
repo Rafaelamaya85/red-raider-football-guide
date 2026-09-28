@@ -38,7 +38,7 @@ Visit [[traditions/index | Texas Tech Traditions]].
 
 Learn more about the home of Red Raider football, including stadium information and what fans can expect when attending a game.
 
-Visit [[jones-stadium/index | Jones AT&T Stadium]].
+Visit [[stadium/jones-att-stadium|Jones AT&T Stadium]].
 
 ### Game Day
 
