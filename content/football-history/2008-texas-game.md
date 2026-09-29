@@ -1,5 +1,6 @@
 ---
 title: 2008 Texas vs Texas Tech
+date: 2026-09-29
 ---
 # 2008 Texas vs. Texas Tech
 
