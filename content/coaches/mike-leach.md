@@ -1,5 +1,6 @@
 ---
 title: Mike Leach
+date: 2026-09-29
 ---
 
 # Mike Leach

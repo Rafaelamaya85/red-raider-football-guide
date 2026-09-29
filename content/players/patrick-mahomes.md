@@ -1,5 +1,6 @@
 ---
 title: Patrick Mahomes
+date: 2026-09-14
 ---
 # Patrick Mahomes
 

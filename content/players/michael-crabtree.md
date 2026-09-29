@@ -1,5 +1,6 @@
 ---
 title: Michael Crabtree
+date: 2026-09-28
 ---
 
 # Michael Crabtree

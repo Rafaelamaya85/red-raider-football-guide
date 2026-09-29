@@ -1,5 +1,6 @@
 ---
 title: Jones AT&T Stadium
+date: 2026-09-14
 ---
 # Jones AT&T Stadium
 

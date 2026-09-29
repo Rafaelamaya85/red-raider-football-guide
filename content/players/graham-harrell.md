@@ -1,5 +1,6 @@
 ---
 title: Graham Harrell
+date: 2026-09-28
 ---
 
 # Graham Harrell

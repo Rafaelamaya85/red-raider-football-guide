@@ -1,5 +1,6 @@
 ---
 title: Masked Rider
+date: 2026-09-14
 ---
 # The Masked Rider
 
