@@ -1,6 +1,6 @@
 ---
 title: Joey McGuire
-date: 2026-08-31
+date: 2026-09-14
 ---
 # Joey McGuire
 

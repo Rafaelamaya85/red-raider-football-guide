@@ -1,5 +1,6 @@
 ---
 title: Texas Tech Football History
+date: 2026-09-14
 ---
 
 ## Texas Tech Football History
