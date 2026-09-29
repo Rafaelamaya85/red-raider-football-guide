@@ -11,25 +11,18 @@ This section of the Red Raider Football Guide focuses on the history of Texas Te
 
 This category will organize information about important moments throughout the history of the Red Raiders, including memorable seasons, coaches, players, bowl games, and other major accomplishments.
 
-### What You Will Find Here
+## What You Will Find Here
 
-This section will include information about:
+This section explores some of the moments, ideas, and matchups that have helped shape Texas Tech football history.
 
-- The history of Texas Tech football
-- Memorable seasons and games
-- Notable players
-- Head coaches
-- Bowl game appearances
-- Championships and accomplishments
-- Important moments in Red Raider football history
+- [[2008-texas-game|2008 Texas Game]] - One of the most memorable games in Texas Tech football history.
+- [[air-raid-offense|Air Raid Offense]] - The offensive system that became a major part of Texas Tech's identity under Mike Leach.
+- [[texas-tech-rivalries|Texas Tech Rivalries]] - A look at the teams and matchups that have helped create memorable moments throughout Red Raider history.
 
 The goal of this category is to make it easy for fans to find and explore information about the history and development of the Texas Tech Red Raiders football program.
 
-
-## Memorable Games
-
-- [[2008-texas-game|2008 Texas vs. Texas Tech]]
-
 ## Related Categories
 
-Texas Tech [[players/index|players]] have helped create the memorable games and moments that make up the history of Red Raider football. Follow the link for further information. 
+Texas Tech football history is closely connected to the coaches and players who helped shape the program. Coaches such as [[../coaches/spike-dykes|Spike Dykes]], [[../coaches/mike-leach|Mike Leach]], and [[../coaches/joey-mcguire|Joey McGuire]] represent different eras of Red Raider football.
+
+Visit the [[../players/index|Players]] section to learn more about notable Red Raiders who have contributed to Texas Tech football history.

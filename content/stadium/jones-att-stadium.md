@@ -2,7 +2,7 @@
 title: Jones AT&T Stadium
 date: 2026-09-14
 ---
-# Jones AT&T Stadium
+# Jones AT&T  / Galaxy Stadium
 
 Jones AT&T Stadium is the home of the Texas Tech Red Raiders football team in Lubbock, Texas. Located on the north end of campus, the stadium is the center of the gameday experience for Red Raider football fans.
 
