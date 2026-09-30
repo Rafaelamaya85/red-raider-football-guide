@@ -11,6 +11,8 @@ Michael Crabtree is one of the most memorable and arguably the greatest wide rec
 
 Crabtree rapidly established himself as one of the top receivers in college football. During his time at Texas Tech, he was known for his physical playing style, ability to make big catches and score touchdowns. He won the Biletnikoff Award, signifying the nation's top college receiver, in both 2007 and 2008.
 
+![Michael Crabtree playing for Texas Tech](../assets/michael-crabtree.jpg)
+
 ## The Catch Against Texas
 
 One of Crabtree's most famous moments and possibly the University's greatest moment came against Texas in 2008. With only seconds remaining in the game, Crabtree caught a pass from Graham Harrell near the sideline and scored the game winning touchdown.
