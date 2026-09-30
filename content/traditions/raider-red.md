@@ -7,6 +7,8 @@ date: 2026-09-29
 
 Raider Red is one of the official mascots of Texas Tech University and one of the most recognizable symbols of the Red Raiders. Unlike the Masked Rider, Raider Red is a costumed mascot who can interact with fans at games and other university events.
 
+![Raider Red, the Texas Tech mascot](../assets/raider-red.jpg)
+
 ## History
 
 Raider Red was created in 1971. The character was based on a drawing by cartoonist Dirk West, who was well known for his illustrations of Southwest Conference mascots.
