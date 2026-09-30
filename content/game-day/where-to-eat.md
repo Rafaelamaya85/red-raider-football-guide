@@ -1,3 +1,7 @@
+---
+title: Where to Eat on Texas Tech Game Day
+date: 2026-09-29
+---
 # Where to Eat on Texas Tech Game Day
 
 Food is an important part of any football weekend especially in Lubbock. Whether you want barbecue, burgers, Mexican food, or something quick before the game, there are plenty of options around campus. For me, finding a good place to eat is a crucial part of the entire game day experience.
@@ -23,3 +27,12 @@ After eating and parking, the next step is getting into the stadium. The [[stadi
 > A Texas Tech football weekend is more than just the game. The food, fans, traditions, and atmosphere around Lubbock are all part of the magic.
 
 For more information about planning the entire day, visit the [[game-day-guide]].
+
+## Related Pages
+
+Food is just one part of planning a Texas Tech football weekend. These pages can help with the rest of the game day experience:
+
+- [[where-to-stay|Where to Stay]]
+- [[parking-guide|Parking Guide]]
+- [[stadium-entry-guide|Stadium Entry Guide]]
+- [[game-day-guide|Texas Tech Game Day Guide]]

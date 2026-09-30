@@ -1,5 +1,6 @@
 ---
 title: Texas Tech Game Day Guide
+date: 2026-09-29
 ---
 # Texas Tech Game Day Guide
 

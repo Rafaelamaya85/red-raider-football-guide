@@ -1,3 +1,7 @@
+---
+title: Texas Tech Football Game Day Traditions
+date: 2026-09-29
+---
 # Texas Tech Football Game Day Traditions
 
 Texas Tech football has traditions that make attending a game in Lubbock different from simply watching it on television. The energy from the students, alumni, and fans creates an atmosphere that is a major part of the experience. For someone attending a Texas Tech game, learning about these traditions beforehand can make game day even more enjoyable.

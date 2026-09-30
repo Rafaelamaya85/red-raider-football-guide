@@ -1,5 +1,6 @@
 ---
 title: About
+date: 2026-09-29
 ---
 
 ## About Me
@@ -11,3 +12,14 @@ This site will include information about Texas Tech football history, players, c
 ## About This Project
 
 The Red Raider Football Guide was created as a knowledge base project using Markdown, Obsidian, GitHub, and GitHub Pages. 
+
+## Explore the Guide
+
+Explore the different sections of the Red Raider Football Guide:
+
+- [[football-history/index|Texas Tech Football History]]
+- [[players/index|Players]]
+- [[coaches/index|Coaches]]
+- [[traditions/index|Traditions]]
+- [[stadium/index|Stadium]]
+- [[game-day/index|Game Day]]

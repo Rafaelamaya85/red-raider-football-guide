@@ -1,5 +1,6 @@
 ---
 title: Red Raider Football Guide
+date: 2026-09-29
 ---
 
 ## Welcome to the Red Raider Football Guide
@@ -61,3 +62,4 @@ Texas Tech football is about more than what happens on the field. It is a combin
 - [[players/index|Players]]
 - [[stadium/index|Jones AT&T Stadium]]
 - [[traditions/index|Traditions]]
+-  [[references|References]]

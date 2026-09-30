@@ -1,3 +1,7 @@
+---
+title: Where to Stay for a Texas Tech Football Game
+date: 2026-09-29
+---
 # Where to Stay for a Texas Tech Football Game
 
 If you are traveling to Lubbock for a Texas Tech football game, choosing where to stay can make a big difference in your weekend. I would prefer to stay somewhere close to Texas Tech so I can spend more time enjoying the game day experience and less time driving across Lubbock. Hotels can also fill up quickly during home football weekends, so planning ahead is important.
@@ -24,3 +28,12 @@ Fans should also give themselves plenty of time to get to the stadium. After par
 > Staying close to the action and planning ahead can make a Texas Tech football weekend much easier and more enjoyable.
 
 For additional information about planning the day, visit the [[game-day-guide]].
+
+## Related Pages
+
+Planning where to stay is an important part of a Texas Tech football weekend. These pages can help with the rest of the trip:
+
+- [[where-to-eat|Where to Eat]]
+- [[parking-guide|Parking Guide]]
+- [[stadium-entry-guide|Stadium Entry Guide]]
+- [[game-day-guide|Texas Tech Game Day Guide]]

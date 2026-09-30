@@ -1,3 +1,7 @@
+---
+title: Texas Tech Stadium Entry Guide
+date: 2026-09-29
+---
 # Texas Tech Stadium Entry Guide
 
 Getting to the stadium is the best part, but be ready on what to expect before reaching the gates. A little preparation can make entering the stadium much easier and help avoid unnecessary delays. On a football game day, I would want to arrive early enough to enjoy the atmosphere around campus instead of rushing through the gates right before kickoff.
@@ -28,3 +32,12 @@ Once inside, fans can enjoy the atmosphere and traditions that make Texas Tech f
 > Arriving prepared and early allows you to spend less time worrying about logistics and more time enjoying Texas Tech football.
 
 For an overview of the entire experience, visit the [[game-day-guide]].
+
+## Related Pages
+
+Planning ahead can make entering the stadium easier and give fans more time to enjoy the Texas Tech game day experience.
+
+- [[parking-guide|Parking Guide]]
+- [[game-day-guide|Texas Tech Game Day Guide]]
+- [[game-day-traditions|Game Day Traditions]]
+- [[../stadium/jones-att-stadium|Jones AT&T / Galaxy Stadium]]

@@ -1,3 +1,7 @@
+---
+title: Texas Tech Football Parking Guide
+date: 2026-09-29
+---
 # Texas Tech Football Parking Guide
 
 Parking is one of the most important things to plan before attending a Texas Tech football game in Lubbock. Because thousands of fans gather and head toward the stadium at the same time, having a parking plan can make game day much easier. I would rather know where I am going before arriving than spend time driving around looking for an open space.
@@ -21,3 +25,12 @@ Parking is only one part of preparing for a Texas Tech football weekend. Fans sh
 > A little planning before game day can mean less time worrying about parking and more time enjoying the Texas Tech football experience.
 
 For a bigger picture of what to expect throughout the day, visit the [[game-day-guide]].
+
+## Related Pages
+
+Parking is just one part of planning a Texas Tech football game day. These pages can help with the rest of your visit:
+
+- [[game-day-guide|Texas Tech Game Day Guide]]
+- [[stadium-entry-guide|Stadium Entry Guide]]
+- [[where-to-eat|Where to Eat]]
+- [[where-to-stay|Where to Stay]]
