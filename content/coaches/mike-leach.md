@@ -7,6 +7,8 @@ date: 2026-09-29
 
 Mike Leach, aka the Pirate as affectionately referred to, was the head football coach at Texas Tech from 2000 through 2009. He became known for his Air Raid offense and helped make Texas Tech one of the most exciting passing teams in college football.
 
+![Mike Leach coaching at Texas Tech](../assets/mike-leach.jpg)
+
 ## Career at Texas Tech
 
 During Leach's time at Texas Tech, the Red Raiders became known for throwing the football and putting up big offensive numbers. His teams consistently reached bowl games and produced several successful quarterbacks and wide receivers.
