@@ -6,6 +6,8 @@ date: 2026-09-14
 
 Joey McGuire is the current head football coach at Texas Tech University. He was hired by Texas Tech in November 2021 after previously serving as an assistant coach at Baylor University.
 
+![Joey McGuire coaching at Texas Tech](../assets/joey-mcguire.jpg)
+
 ## Before Texas Tech
 
 Before making the jump to college football, coach McGuire built a very successful career as a high school football coach in Texas. A true Friday night lights legend. He spent years at Cedar Hill High School, where he helped build one of the most successful football programs in the state.
