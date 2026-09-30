@@ -22,7 +22,7 @@ He has placed a strong emphasis on recruiting Texas players and building excitem
 
 ## Building the Program
 
-Under McGuire, Texas Tech has continued working toward becoming a consistent contender in the Big 12. The Red Raiders won the 2025 Big 12 Championship, giving Texas Tech its first outright conference championship since 1955.
+Under McGuire, Texas Tech has continued working toward becoming a consistent contender in the Big 12. The Red Raiders won the [[football-history/2025-championship-season|2025 Big 12 Championship]], giving Texas Tech its first outright conference championship since 1955.
 
 His leadership has helped bring new attention and expectations to the football program while continuing to build the Matador culture.
 
@@ -31,3 +31,4 @@ His leadership has helped bring new attention and expectations to the football p
 - [[coaches/index|Coaches]]
 - [[football-history/index|Texas Tech Football History]]
 - [[players/patrick-mahomes|Patrick Mahomes]]
+- [[football-history/2025-championship-season|2025 Big 12 Championship Season]]

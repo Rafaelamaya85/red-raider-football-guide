@@ -18,6 +18,7 @@ This section explores some of the moments, ideas, and matchups that have helped 
 - [[2008-texas-game|2008 Texas Game]] - One of the most memorable games in Texas Tech football history.
 - [[air-raid-offense|Air Raid Offense]] - The offensive system that became a major part of Texas Tech's identity under Mike Leach.
 - [[texas-tech-rivalries|Texas Tech Rivalries]] - A look at the teams and matchups that have helped create memorable moments throughout Red Raider history.
+-  [[2025-championship-season|2025 Big 12 Championship Season]] - The historic season when Texas Tech won its first Big 12 football championship and earned its first College Football Playoff appearance.
 
 The goal of this category is to make it easy for fans to find and explore information about the history and development of the Texas Tech Red Raiders football program.
 
