@@ -18,6 +18,8 @@ One of Mahomes' most memorable games came against Oklahoma in 2016. In the game,
 
 The game became one of the most famous offensive performances in college football history, with Texas Tech and Oklahoma combining for 125 points.
 
+![Patrick Mahomes playing quarterback at Texas Tech](../assets/patrick-mahomes.jpg)
+
 ## From Texas Tech to the NFL
 
 After the 2016 season, Mahomes entered the NFL Draft where he was selected 10th overall by the Kansas City Chiefs.
