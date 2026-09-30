@@ -7,6 +7,8 @@ date: 2026-09-29
 
 The Goin' Band from Raiderland is the marching band of Texas Tech University and an important part of the Red Raider game day experience. The band brings school spirit, and tradition to Texas Tech football games and other events. 
 
+![Goin' Band from Raiderland at Texas Tech](../assets/goin-band-from-raiderland.jpg)
+
 ## History
 
 The Goin' Band has a long history at Texas Tech and has become one of the university's most recognizable traditions. The band's performances have helped create the atmosphere surrounding Texas Tech athletics for generations.
