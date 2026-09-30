@@ -42,6 +42,14 @@ Historical information about Texas Tech football, players, coaches, schedules, a
 	Used on: [[game-day/index|Game Day]]  
 	Used on: [[football-history/index|Texas Tech Football History]]
 
+- Texas Tech Athletics. "Texas Tech Downs BYU for First Big 12 Title."  
+  https://texastech.com/news/2025/12/6/Fooball-Tech-downs-BYU-for-1st-Big-12-title
+	Used on: [[football-history/2025-championship-season|2025 Big 12 Championship Season]]
+
+- Texas Tech Athletics. "Texas Tech Lands No. 4 Seed, Trip to Orange Bowl."  
+  https://texastech.com/news/2025/12/7/football-texas-tech-lands-no-4-seed-trip-to-orange-bowl
+	Used on: [[football-history/2025-championship-season|2025 Big 12 Championship Season]]
+
 ## Additional Resources
 
 - NCAA. College football statistics and historical information.  
