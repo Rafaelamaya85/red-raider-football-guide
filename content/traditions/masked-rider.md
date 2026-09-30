@@ -8,6 +8,8 @@ The Masked Rider is one of the most important traditions at Texas Tech. The ride
 
 The tradition is a major part of the game day experience and represents the spirit and pride of Matador.
 
+![The Masked Rider at Texas Tech](../assets/masked-rider.jpg)
+
 ## History of the Masked Rider
 
 The Masked Rider tradition officially began in 1954 when Joe Kirk Fulton rode onto the field at the Gator Bowl. The entrance made such an impression that the Masked Rider became an official Texas Tech mascot.
