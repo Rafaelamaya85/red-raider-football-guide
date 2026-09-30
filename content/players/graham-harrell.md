@@ -7,6 +7,8 @@ date: 2026-09-28
 
 Graham Harrell was one of the most successful quarterbacks in Texas Tech football history. He played for the Red Raiders from 2005 to 2008 and became known for putting up big passing numbers in Texas Tech's Air Raid offense.
 
+![Graham Harrell playing quarterback at Texas Tech](../assets/graham-harrell.jpg)
+
 ## Career at Texas Tech
 
 Harrell became the starting quarterback in 2006 and helped lead one of the most productive offenses in college football. During his career, he threw for more than 15,000 yards and finished with 134 passing touchdowns.
