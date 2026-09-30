@@ -31,15 +31,33 @@ The following sources were used to research and verify information included thro
 
 ## Texas Tech Athletics
 
-Additional historical information about Texas Tech football, players, coaches, schedules, and the football program was researched through Texas Tech Athletics.
+Historical information about Texas Tech football, players, coaches, schedules, and the football program was researched through Texas Tech Athletics. Texas Tech Athletics was also used as the source for images included throughout this knowledge base.
 
 - Texas Tech Athletics  
   https://texastech.com/
+	Used on: [[coaches/index|Coaches]]  
+	Used on: [[players/index|Players]]  
+	Used on: [[traditions/index|Traditions]]  
+	Used on: [[stadium/index|Stadium]]  
+	Used on: [[game-day/index|Game Day]]  
+	Used on: [[football-history/index|Texas Tech Football History]]
 
 ## Additional Resources
 
 - NCAA. College football statistics and historical information.  
   https://www.ncaa.com/football
+	Used on: [[football-history/index|Texas Tech Football History]]
 
 - Sports Reference. College Football statistics and historical player information.  
   https://www.sports-reference.com/cfb/
+	Used on: [[players/graham-harrell|Graham Harrell]]  
+	Used on: [[players/michael-crabtree|Michael Crabtree]]  
+	Used on: [[players/patrick-mahomes|Patrick Mahomes]]  
+	Used on: [[football-history/2008-texas-game|2008 Texas Game]]
+
+## Image Sources
+
+Images used throughout the Red Raider Football Guide were obtained from Texas Tech Athletics and are used for educational purposes as part of this course project.
+
+- Texas Tech Athletics  
+  https://texastech.com/
