@@ -4,27 +4,27 @@ date: 2026-09-14
 ---
 # Joey McGuire
 
-Joey McGuire is the current head football coach at Texas Tech University. He was hired by Texas Tech in November 2021 after previously serving as an assistant coach at Baylor University.
+Joey McGuire is the current head football coach at Texas Tech University. He was hired by Texas Tech in November 2021 after previously spending five seasons on the coaching staff at Baylor University.
 
 ![Joey McGuire coaching at Texas Tech](../assets/joey-mcguire.jpg)
 
 ## Before Texas Tech
 
-Before making the jump to college football, coach McGuire built a very successful career as a high school football coach in Texas. A true Friday night lights legend. He spent years at Cedar Hill High School, where he helped build one of the most successful football programs in the state.
+Before making the jump to college football, Coach McGuire built a very successful career as a high school football coach in Texas. A true Friday night lights legend, he spent 14 seasons as the head coach at Cedar Hill High School, where he helped build one of the most successful football programs in the state.
 
-That experience coaching high school football is one of the main reasons he has succeeded at Tech. The relationships built with coaches and players across the state are directly responsible for the pipeline of talent that Tech is now enjoying including the number one player in the country in the 2028 class, Jalen Brewster.
+McGuire led Cedar Hill to three state championships and developed strong relationships throughout Texas high school football. Those connections have continued to play an important role in his recruiting approach at Texas Tech.
 
 ## Becoming the Red Raiders Head Coach
 
-Texas Tech hired coach McGuire to lead the Red Raider football program during the 2021 season. His energy, personality, and knowledge of the Texas football landscape quickly became an important part of his approach to rebuilding the program.
+Texas Tech hired Coach McGuire to lead the Red Raider football program during the 2021 season. His energy, personality, and knowledge of the Texas football landscape quickly became an important part of his approach to building the program.
 
 He has placed a strong emphasis on recruiting Texas players and building excitement around the program.
 
 ## Building the Program
 
-Under McGuire, Texas Tech has continued working toward becoming a consistent contender in the Big 12 including achieving its first conference title in program history last season. 
+Under McGuire, Texas Tech has continued working toward becoming a consistent contender in the Big 12. The Red Raiders won the 2025 Big 12 Championship, giving Texas Tech its first outright conference championship since 1955.
 
-His leadership has helped bring new attention and expectations to the football program while continuing to build the Matador culture. 
+His leadership has helped bring new attention and expectations to the football program while continuing to build the Matador culture.
 
 ## Related Pages
 
