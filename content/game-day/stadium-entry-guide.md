@@ -23,6 +23,8 @@ Before heading toward the gates, I would recommend:
 4. Determine which entrance you should use.
 5. Give yourself extra time to get through the gates.
 
+![2026 Galaxy Stadium Entry and Gate Map](../assets/2026-stadium-entry-map.jpg)
+
 ### Putting the Game Day Plan Together
 
 Getting into the stadium is one of the final steps in the game day plan. Before reaching this point, fans may need to decide [[where-to-eat]], leave their hotel from [[where-to-stay]], and follow their [[parking-guide]].
