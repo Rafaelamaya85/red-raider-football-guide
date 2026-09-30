@@ -26,6 +26,8 @@ The Harrell-to-Crabtree touchdown is one of the most iconic moments in Texas Tec
 
 For Red Raider fans, all you have to say is **"Crabtree pulls free"** and we know exactly where we were that night.
 
+![Texas Tech vs. Texas in the 2008 game](../assets/2008-texas-game.jpg)
+
 ## Related Pages
 
 - [[index|Texas Tech Football History]]
