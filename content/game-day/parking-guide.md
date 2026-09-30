@@ -18,6 +18,8 @@ A few things I would recommend planning ahead include:
 - Save your parking location on your phone.
 - Expect traffic when leaving after the game.
 
+![2026 Texas Tech Football Parking Map](../assets/2026-football-parking-map.jpg)
+
 ### Make Parking Part of Your Plan
 
 Parking is only one part of preparing for a Texas Tech football weekend. Fans should also think about [[where-to-eat]], [[where-to-stay]], and the [[stadium-entry-guide]] before heading to the game.
