@@ -9,6 +9,8 @@ Welcome to the **Red Raider Football Guide**, a knowledge base dedicated to Texa
 
 This guide provides an easy way to explore different parts of the program.
 
+![Texas Tech Red Raider football game day](assets/red-raider-football.jpg)
+
 ## Explore the Red Raiders
 
 ### Football History
